@@ -1,0 +1,6 @@
+name: BetterCampfire
+version: "1.0"
+api-version: "1.15"
+author: 7isenko
+website: https://github.com/7isenko
+main: io.github._7isenko.bettercampfire.BetterCampfire
